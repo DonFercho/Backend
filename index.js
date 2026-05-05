@@ -55,7 +55,7 @@ const html = `<!DOCTYPE html>
 <body>
   <div class="container">
     <h1>Bienvenido</h1>
-    <p>Esta es u una landing page básica para mostrar un cambio simple en tu proyecto. Usa esta página como punto de partida para tu aplicación.</p>
+    <p>pagina simple para mostrar cambios</p>
     <a class="button" href="#">Ver cambio básico</a>
   </div>
 </body>
